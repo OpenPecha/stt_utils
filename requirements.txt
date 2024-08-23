@@ -1,0 +1,7 @@
+# stt-split-audio from GitHub
+# git clone https://github.com/OpenPecha/stt-split-audio.git and copy util folder
+
+# Other dependencies
+numpy==1.23.5
+pandas==1.5.2
+psycopg2-binary==2.9.6
